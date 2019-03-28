@@ -1,7 +1,7 @@
-package M0_HelloGo
+package main
 
 import "fmt"
 
-func main()  {
+func main() {
 	fmt.Print("Hello AlphaGo!")
 }
